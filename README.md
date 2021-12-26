@@ -1,2 +1,0 @@
-# nomaskgu
-teachable machine test
